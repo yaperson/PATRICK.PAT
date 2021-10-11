@@ -1,0 +1,7 @@
+Hello World !
+Hello World ! Ton cul
+Hello World ! class
+Hello World !
+Hello World ! StreamWriter
+ 
+From the StreamWriter class
